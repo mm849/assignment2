@@ -1,0 +1,11 @@
+product_id,name,price,brand,model,colour,features,average_ratings
+PH1,iPhone 6s,169,Apple,iPhone 6s,Space Grey,"Retina HD display, Widescreen LCD, Multi-Touch display with IPS technology",3.9
+PH2,Galaxy S10,200,Samsung,S10,Black,"Dual-sim, Fingerprint Sensor, Gyro Sensor",3.7
+PH3,Google Pixel XL,179.99,Google,Pixel XL,Obsidian,"Gorilla Glass 4, Fingerprint Sensor, AMOLED display",3.9
+PH4,Huawei P9,100,Huawei,P9,Ceramic White,"IPS-NEO LCD display, Quad-core 2.5 GHz, Fingerprint Sensor",3.4
+PH5,iPhone 14,849,Apple,iPhone 14,Starlight,"A15 Bionic chip, Face ID, Water and Dust Resistant",4.8
+PH6,Galaxy S22,769,Samsung,Galaxy S22,Phantom Black,"Dual Nano SIM, Dynamic AMOLED 2X, Fingerprint Sensor",3.0
+PH7,Google Pixel 7 ,599,Google,Pixel 7,Snow,"Corning Gorilla Glass, Always-on display, Dual-LED flash",4.1
+PH8,OnePlus 9 Pro,500,OnePlus,9 Pro,Pine Green,"120 Hz Fluid Display, Hasselblad Camera, Warp Charge 65T",3.1
+PH9,iPhone 14,849,Apple,iPhone 14,Midnight,"A15 Bionic chip, Face ID, Water and Dust Resistant",4.5
+PH10,iPhone X,449,Apple,iPhone X,Silver,"A11 Bionic chip, 3D Touch, Super Retina HD display",4.9

@@ -1,0 +1,6 @@
+Partner_id,partner_name,partner_phone_number,partner_email_address,partner_address,partner_bank_account.account_name,partner_bank_account.account_number,partner_bank_account.sort_code
+PA1,Mike Dean,07618259974,mike.dean@gmail.com,29 Ellesmere St,Mike Dean,90375644,040066
+PA2,Robert Chaniago,07412744098,robert.chan@gmail.com,338 Deansgate,Robert Chaniago,90375895,040067
+PA3,Hashim Ridwan,07212327676,hashim.ridwan@gmail.com,10 Dickinson St,Hashim Ridwan,90375949,040068
+PA4,Sebastian Kanu,07316371076,se.kanu@gmail.com,40 Oxford St,Sebastian Kanu,90379876,040069
+PA5,Alan Smith,07518346320,alan.smith@gmail.com,30 George St,Alan Smith,90370873,040070
